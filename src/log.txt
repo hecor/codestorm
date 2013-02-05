@@ -1,0 +1,2719 @@
+Game begin:  100000 0
+
+
+**********************************
+Round 1 : 100000 0
+
+supply: 
+{u'orderId': u'SUP--47773', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 787}
+
+demand: 
+{u'orderId': u'DEM--47773', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 610}
+
+quantown:  0
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.40999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 787}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 787
+
+
+**********************************
+Round 2 : 97803.66 2248.4
+
+supply: 
+{u'orderId': u'SUP--47774', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 541}
+
+demand: 
+{u'orderId': u'DEM--47774', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 837}
+
+quantown:  0
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.41999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 541}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 2
+
+not_sell_days: 0
+
+marketportfolio: 1328
+
+
+**********************************
+Round 3 : 95827.24 4155.98
+
+supply: 
+{u'orderId': u'SUP--47775', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 354}
+
+demand: 
+{u'orderId': u'DEM--47775', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 317}
+
+quantown:  0
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.41999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 354}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.41999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 354}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 1682
+
+
+**********************************
+Round 4 : 92487.81 7960.7
+
+supply: 
+{u'orderId': u'SUP--47776', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 193}
+
+demand: 
+{u'orderId': u'DEM--47776', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 219}
+
+quantown:  354
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.38, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 193}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 1875
+
+
+**********************************
+Round 5 : 90516.13 10357.34
+
+supply: 
+{u'orderId': u'SUP--47777', u'price': 0.37, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 498}
+
+demand: 
+{u'orderId': u'DEM--47777', u'price': 0.37, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 407}
+
+quantown:  354
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.35999999999999999, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 354}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.35999999999999999, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -354}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 1521
+
+
+**********************************
+Round 6 : 80034.35 21718.15
+
+supply: 
+{u'orderId': u'SUP--47778', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 429}
+
+demand: 
+{u'orderId': u'DEM--47778', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 370}
+
+quantown:  354
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 1521
+
+
+**********************************
+Round 7 : 72206.45 30867.33
+
+supply: 
+{u'orderId': u'SUP--47779', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 341}
+
+demand: 
+{u'orderId': u'DEM--47779', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 302}
+
+quantown:  354
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.44, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 341}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 1862
+
+
+**********************************
+Round 8 : 60819.17 40341.71
+
+supply: 
+{u'orderId': u'SUP--47780', u'price': 0.46999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 324}
+
+demand: 
+{u'orderId': u'DEM--47780', u'price': 0.46999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 270}
+
+quantown:  354
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.4894, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 324}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.48999999999999999, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 324}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 2186
+
+
+**********************************
+Round 9 : 60192.29 41521.85
+
+supply: 
+{u'orderId': u'SUP--47781', u'price': 0.48999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 508}
+
+demand: 
+{u'orderId': u'DEM--47781', u'price': 0.48999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 411}
+
+quantown:  324
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.5, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 508}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 2694
+
+
+**********************************
+Round 10 : 59162.85 42754.68
+
+supply: 
+{u'orderId': u'SUP--47782', u'price': 0.57999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 373}
+
+demand: 
+{u'orderId': u'DEM--47782', u'price': 0.57999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 510}
+
+quantown:  324
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.60160000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 373}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.59999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 373}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3067
+
+
+**********************************
+Round 11 : 55852.24 46197.51
+
+supply: 
+{u'orderId': u'SUP--47783', u'price': 0.68999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 265}
+
+demand: 
+{u'orderId': u'DEM--47783', u'price': 0.68999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 310}
+
+quantown:  697
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.69999999999999996, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 265}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 3332
+
+
+**********************************
+Round 12 : 52359.81 50569.8
+
+supply: 
+{u'orderId': u'SUP--47784', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 89}
+
+demand: 
+{u'orderId': u'DEM--47784', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 79}
+
+quantown:  697
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3332
+
+
+**********************************
+Round 13 : 48751.48 53450.73
+
+supply: 
+{u'orderId': u'SUP--47785', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 405}
+
+demand: 
+{u'orderId': u'DEM--47785', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 367}
+
+quantown:  697
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3332
+
+
+**********************************
+Round 14 : 42337.39 57741.43
+
+supply: 
+{u'orderId': u'SUP--47786', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 417}
+
+demand: 
+{u'orderId': u'DEM--47786', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 359}
+
+quantown:  697
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.68000000000000005, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 417}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 3749
+
+
+**********************************
+Round 15 : 46243.47 52418.35
+
+supply: 
+{u'orderId': u'SUP--47787', u'price': 0.70999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 243}
+
+demand: 
+{u'orderId': u'DEM--47787', u'price': 0.70999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 283}
+
+quantown:  697
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.73419999999999996, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 243}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.72999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 243}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3992
+
+
+**********************************
+Round 16 : 44553.11 55609.98
+
+supply: 
+{u'orderId': u'SUP--47788', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 290}
+
+demand: 
+{u'orderId': u'DEM--47788', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 219}
+
+quantown:  940
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.76000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 290}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 4282
+
+
+**********************************
+Round 17 : 43477.07 54946.06
+
+supply: 
+{u'orderId': u'SUP--47789', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 340}
+
+demand: 
+{u'orderId': u'DEM--47789', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 379}
+
+quantown:  940
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.81580000000000008, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 340}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.81999999999999995, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 340}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 4622
+
+
+**********************************
+Round 18 : 39435.96 62083.87
+
+supply: 
+{u'orderId': u'SUP--47790', u'price': 0.88, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 573}
+
+demand: 
+{u'orderId': u'DEM--47790', u'price': 0.88, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 608}
+
+quantown:  1280
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.89000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 573}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 5195
+
+
+**********************************
+Round 19 : 37902.6 65486.2
+
+supply: 
+{u'orderId': u'SUP--47791', u'price': 0.89000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 529}
+
+demand: 
+{u'orderId': u'DEM--47791', u'price': 0.89000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 639}
+
+quantown:  1280
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.91780000000000006, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 529}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.92000000000000004, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 529}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 20 : 33163.34 73524.11
+
+supply: 
+{u'orderId': u'SUP--47792', u'price': 0.88, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 508}
+
+demand: 
+{u'orderId': u'DEM--47792', u'price': 0.88, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 472}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 21 : 27792.88 81906.78
+
+supply: 
+{u'orderId': u'SUP--47793', u'price': 0.85999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 468}
+
+demand: 
+{u'orderId': u'DEM--47793', u'price': 0.85999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 382}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 22 : 21486.31 92241.77
+
+supply: 
+{u'orderId': u'SUP--47794', u'price': 0.87, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 191}
+
+demand: 
+{u'orderId': u'DEM--47794', u'price': 0.87, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 223}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 23 : 12023.23 103744.99
+
+supply: 
+{u'orderId': u'SUP--47795', u'price': 0.85999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 292}
+
+demand: 
+{u'orderId': u'DEM--47795', u'price': 0.85999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 344}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 24 : 6620.4 110509.05
+
+supply: 
+{u'orderId': u'SUP--47796', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 401}
+
+demand: 
+{u'orderId': u'DEM--47796', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 377}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 25 : 430.09 116400.35
+
+supply: 
+{u'orderId': u'SUP--47797', u'price': 0.77000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 334}
+
+demand: 
+{u'orderId': u'DEM--47797', u'price': 0.77000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 408}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 26 : 1.28999999997 120579.11
+
+supply: 
+{u'orderId': u'SUP--47798', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 400}
+
+demand: 
+{u'orderId': u'DEM--47798', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 365}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 27 : 1.28999999997 123159.52
+
+supply: 
+{u'orderId': u'SUP--47799', u'price': 0.73999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 424}
+
+demand: 
+{u'orderId': u'DEM--47799', u'price': 0.73999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 387}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 28 : 1.28999999997 125220.23
+
+supply: 
+{u'orderId': u'SUP--47800', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 696}
+
+demand: 
+{u'orderId': u'DEM--47800', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 578}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 29 : 0.159999999972 126244.21
+
+supply: 
+{u'orderId': u'SUP--47801', u'price': 0.71999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 373}
+
+demand: 
+{u'orderId': u'DEM--47801', u'price': 0.71999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 280}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 30 : 0.159999999972 130653.43
+
+supply: 
+{u'orderId': u'SUP--47802', u'price': 0.78000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 410}
+
+demand: 
+{u'orderId': u'DEM--47802', u'price': 0.78000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 565}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5724
+
+
+**********************************
+Round 31 : 0.159999999972 131218.52
+
+supply: 
+{u'orderId': u'SUP--47803', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 191}
+
+demand: 
+{u'orderId': u'DEM--47803', u'price': 0.79000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 215}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.80000000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 32 : 0.159999999972 132619.86
+
+supply: 
+{u'orderId': u'SUP--47804', u'price': 0.83999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 829}
+
+demand: 
+{u'orderId': u'DEM--47804', u'price': 0.83999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 1141}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.86680000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 2
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 33 : 0.159999999972 136522.59
+
+supply: 
+{u'orderId': u'SUP--47805', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 170}
+
+demand: 
+{u'orderId': u'DEM--47805', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 143}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 34 : 0.159999999972 134998.97
+
+supply: 
+{u'orderId': u'SUP--47806', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 276}
+
+demand: 
+{u'orderId': u'DEM--47806', u'price': 0.76000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 330}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 35 : 0.159999999972 135075.92
+
+supply: 
+{u'orderId': u'SUP--47807', u'price': 0.77000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 218}
+
+demand: 
+{u'orderId': u'DEM--47807', u'price': 0.77000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 226}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 36 : 0.159999999972 134398
+
+supply: 
+{u'orderId': u'SUP--47808', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 296}
+
+demand: 
+{u'orderId': u'DEM--47808', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 279}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 37 : 0.159999999972 136271.27
+
+supply: 
+{u'orderId': u'SUP--47809', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 268}
+
+demand: 
+{u'orderId': u'DEM--47809', u'price': 0.75, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 315}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 38 : 0.159999999972 137218.52
+
+supply: 
+{u'orderId': u'SUP--47810', u'price': 0.71999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 528}
+
+demand: 
+{u'orderId': u'DEM--47810', u'price': 0.71999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 427}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 39 : 0.159999999972 135037.46
+
+supply: 
+{u'orderId': u'SUP--47811', u'price': 0.72999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 356}
+
+demand: 
+{u'orderId': u'DEM--47811', u'price': 0.72999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 296}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 40 : 0.159999999972 132732.86
+
+supply: 
+{u'orderId': u'SUP--47812', u'price': 0.78000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 187}
+
+demand: 
+{u'orderId': u'DEM--47812', u'price': 0.78000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 171}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.79000000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 41 : 0.159999999972 136844.97
+
+supply: 
+{u'orderId': u'SUP--47813', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 386}
+
+demand: 
+{u'orderId': u'DEM--47813', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 315}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.85660000000000003, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 2
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 42 : 0.159999999972 139712.79
+
+supply: 
+{u'orderId': u'SUP--47814', u'price': 0.81999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 519}
+
+demand: 
+{u'orderId': u'DEM--47814', u'price': 0.81999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 585}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 43 : 0.159999999972 134435.87
+
+supply: 
+{u'orderId': u'SUP--47815', u'price': 0.83999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 440}
+
+demand: 
+{u'orderId': u'DEM--47815', u'price': 0.83999999999999997, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 544}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 44 : 0.159999999972 136980.59
+
+supply: 
+{u'orderId': u'SUP--47816', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 280}
+
+demand: 
+{u'orderId': u'DEM--47816', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 257}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 45 : 0.159999999972 136239.88
+
+supply: 
+{u'orderId': u'SUP--47817', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 307}
+
+demand: 
+{u'orderId': u'DEM--47817', u'price': 0.81000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 321}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 46 : 0.159999999972 135266.73
+
+supply: 
+{u'orderId': u'SUP--47818', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 302}
+
+demand: 
+{u'orderId': u'DEM--47818', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 353}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.83999999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 47 : 602.08 133088.49
+
+supply: 
+{u'orderId': u'SUP--47819', u'price': 0.81999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 166}
+
+demand: 
+{u'orderId': u'DEM--47819', u'price': 0.81999999999999995, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 188}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 48 : 0.329999999972 132867.09
+
+supply: 
+{u'orderId': u'SUP--47820', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 274}
+
+demand: 
+{u'orderId': u'DEM--47820', u'price': 0.82999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 327}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5915
+
+
+**********************************
+Round 49 : 3130.58 126940.37
+
+supply: 
+{u'orderId': u'SUP--47821', u'price': 0.73999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 464}
+
+demand: 
+{u'orderId': u'DEM--47821', u'price': 0.73999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 365}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.72999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 365}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 5550
+
+
+**********************************
+Round 50 : 633.14 130335.83
+
+supply: 
+{u'orderId': u'SUP--47822', u'price': 0.70999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 295}
+
+demand: 
+{u'orderId': u'DEM--47822', u'price': 0.70999999999999996, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 245}
+
+quantown:  1809
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.67869999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 245}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.68000000000000005, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -245}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 5305
+
+
+**********************************
+Round 51 : 3786.82 126725.61
+
+supply: 
+{u'orderId': u'SUP--47823', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 271}
+
+demand: 
+{u'orderId': u'DEM--47823', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 307}
+
+quantown:  1564
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.66000000000000003, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 307}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 4998
+
+
+**********************************
+Round 52 : 933.74 129943.32
+
+supply: 
+{u'orderId': u'SUP--47824', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 252}
+
+demand: 
+{u'orderId': u'DEM--47824', u'price': 0.67000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 213}
+
+quantown:  1564
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.63990000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 213}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.64000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -213}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 4785
+
+
+**********************************
+Round 53 : 3146.94 124575.6
+
+supply: 
+{u'orderId': u'SUP--47825', u'price': 0.65000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 167}
+
+demand: 
+{u'orderId': u'DEM--47825', u'price': 0.65000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 132}
+
+quantown:  1351
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.64000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 132}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 4653
+
+
+**********************************
+Round 54 : 865.69 133120.82
+
+supply: 
+{u'orderId': u'SUP--47826', u'price': 0.66000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 300}
+
+demand: 
+{u'orderId': u'DEM--47826', u'price': 0.66000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 227}
+
+quantown:  1351
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.63019999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 227}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.63, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -227}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 4426
+
+
+**********************************
+Round 55 : 3504.37 136297.87
+
+supply: 
+{u'orderId': u'SUP--47827', u'price': 0.68000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 157}
+
+demand: 
+{u'orderId': u'DEM--47827', u'price': 0.68000000000000005, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 217}
+
+quantown:  1124
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.69000000000000006, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 157}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.67000000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 217}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 1
+
+marketportfolio: 4366
+
+
+**********************************
+Round 56 : 555.57 140504.85
+
+supply: 
+{u'orderId': u'SUP--47828', u'price': 0.66000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 314}
+
+demand: 
+{u'orderId': u'DEM--47828', u'price': 0.66000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 366}
+
+quantown:  1124
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.63019999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 366}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.63, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -366}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 4000
+
+
+**********************************
+Round 57 : 2150.09 139887.8
+
+supply: 
+{u'orderId': u'SUP--47829', u'price': 0.54000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 251}
+
+demand: 
+{u'orderId': u'DEM--47829', u'price': 0.54000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 171}
+
+quantown:  758
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.53000000000000003, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 171}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 3829
+
+
+**********************************
+Round 58 : 755.8 142002.79
+
+supply: 
+{u'orderId': u'SUP--47830', u'price': 0.53000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 229}
+
+demand: 
+{u'orderId': u'DEM--47830', u'price': 0.53000000000000003, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 194}
+
+quantown:  758
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.50409999999999999, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 194}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.5, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -194}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3635
+
+
+**********************************
+Round 59 : 1068.5 145123.61
+
+supply: 
+{u'orderId': u'SUP--47831', u'price': 0.55000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 240}
+
+demand: 
+{u'orderId': u'DEM--47831', u'price': 0.55000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 206}
+
+quantown:  564
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.54000000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 206}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 3429
+
+
+**********************************
+Round 60 : 1.57999999997 142715.97
+
+supply: 
+{u'orderId': u'SUP--47832', u'price': 0.54000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 187}
+
+demand: 
+{u'orderId': u'DEM--47832', u'price': 0.54000000000000004, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 201}
+
+quantown:  564
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.51380000000000003, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 201}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.51000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -201}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 3228
+
+
+**********************************
+Round 61 : 956.69 139208.8
+
+supply: 
+{u'orderId': u'SUP--47833', u'price': 0.52000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 254}
+
+demand: 
+{u'orderId': u'DEM--47833', u'price': 0.52000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 286}
+
+quantown:  363
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.51000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 286}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 2942
+
+
+**********************************
+Round 62 : 662.28 139884.22
+
+supply: 
+{u'orderId': u'SUP--47834', u'price': 0.47999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 235}
+
+demand: 
+{u'orderId': u'DEM--47834', u'price': 0.47999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 264}
+
+quantown:  363
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.45559999999999995, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 264}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.46000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -264}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 2678
+
+
+**********************************
+Round 63 : 1247.1 140202.48
+
+supply: 
+{u'orderId': u'SUP--47835', u'price': 0.47999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 224}
+
+demand: 
+{u'orderId': u'DEM--47835', u'price': 0.47999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 254}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.46999999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 2424
+
+
+**********************************
+Round 64 : 5.63999999997 137967.94
+
+supply: 
+{u'orderId': u'SUP--47836', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 299}
+
+demand: 
+{u'orderId': u'DEM--47836', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 230}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.38769999999999993, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.39000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -99}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 2194
+
+
+**********************************
+Round 65 : 624.8 139583.44
+
+supply: 
+{u'orderId': u'SUP--47837', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 453}
+
+demand: 
+{u'orderId': u'DEM--47837', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 302}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.39000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 1892
+
+
+**********************************
+Round 66 : 4.30999999997 141417.88
+
+supply: 
+{u'orderId': u'SUP--47838', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 265}
+
+demand: 
+{u'orderId': u'DEM--47838', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 295}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.38769999999999993, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 2
+
+marketportfolio: 1597
+
+
+**********************************
+Round 67 : 779.21 143417.31
+
+supply: 
+{u'orderId': u'SUP--47839', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 440}
+
+demand: 
+{u'orderId': u'DEM--47839', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 379}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.38479999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 3
+
+marketportfolio: 1218
+
+
+**********************************
+Round 68 : 4823.48 140078.75
+
+supply: 
+{u'orderId': u'SUP--47840', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 425}
+
+demand: 
+{u'orderId': u'DEM--47840', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 368}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.36309999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 4
+
+marketportfolio: 850
+
+
+**********************************
+Round 69 : 163.6 147873.45
+
+supply: 
+{u'orderId': u'SUP--47841', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 418}
+
+demand: 
+{u'orderId': u'DEM--47841', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 337}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.32440000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 5
+
+marketportfolio: 513
+
+
+**********************************
+Round 70 : 2570.0 148568.45
+
+supply: 
+{u'orderId': u'SUP--47842', u'price': 0.37, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 142}
+
+demand: 
+{u'orderId': u'DEM--47842', u'price': 0.37, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 196}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.31559999999999999, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 6
+
+marketportfolio: 317
+
+
+**********************************
+Round 71 : 1012.15 148424.02
+
+supply: 
+{u'orderId': u'SUP--47843', u'price': 0.34000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 325}
+
+demand: 
+{u'orderId': u'DEM--47843', u'price': 0.34000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 382}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.28920000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 7
+
+marketportfolio: 0
+
+
+**********************************
+Round 72 : 2304.22 149301.08
+
+supply: 
+{u'orderId': u'SUP--47844', u'price': 0.31, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 296}
+
+demand: 
+{u'orderId': u'DEM--47844', u'price': 0.31, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 331}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.26279999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 8
+
+marketportfolio: 0
+
+
+**********************************
+Round 73 : 1829.7 155133.54
+
+supply: 
+{u'orderId': u'SUP--47845', u'price': 0.31, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 359}
+
+demand: 
+{u'orderId': u'DEM--47845', u'price': 0.31, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 272}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.26279999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 9
+
+marketportfolio: 0
+
+
+**********************************
+Round 74 : 2434.82 154720.58
+
+supply: 
+{u'orderId': u'SUP--47846', u'price': 0.32000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 159}
+
+demand: 
+{u'orderId': u'DEM--47846', u'price': 0.32000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 174}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.27160000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 10
+
+marketportfolio: 0
+
+
+**********************************
+Round 75 : 1717.73 157030.33
+
+supply: 
+{u'orderId': u'SUP--47847', u'price': 0.33000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 198}
+
+demand: 
+{u'orderId': u'DEM--47847', u'price': 0.33000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 179}
+
+quantown:  99
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.34000000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 198}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.28039999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 11
+
+marketportfolio: 198
+
+
+**********************************
+Round 76 : 1233.37 168577.32
+
+supply: 
+{u'orderId': u'SUP--47848', u'price': 0.35999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 342}
+
+demand: 
+{u'orderId': u'DEM--47848', u'price': 0.35999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 394}
+
+quantown:  99
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.37719999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 342}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.30679999999999996, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 2
+
+not_sell_days: 12
+
+marketportfolio: 0
+
+
+**********************************
+Round 77 : 136.89 176925.17
+
+supply: 
+{u'orderId': u'SUP--47849', u'price': 0.35999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 254}
+
+demand: 
+{u'orderId': u'DEM--47849', u'price': 0.35999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 234}
+
+quantown:  99
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.38440000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 254}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.30679999999999996, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 3
+
+not_sell_days: 13
+
+marketportfolio: 254
+
+
+**********************************
+Round 78 : 315.65 177462.3
+
+supply: 
+{u'orderId': u'SUP--47850', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 561}
+
+demand: 
+{u'orderId': u'DEM--47850', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 716}
+
+quantown:  99
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.42340000000000005, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 561}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.3332, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 4
+
+not_sell_days: 14
+
+marketportfolio: 0
+
+
+**********************************
+Round 79 : 4.80999999997 174706.53
+
+supply: 
+{u'orderId': u'SUP--47851', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 395}
+
+demand: 
+{u'orderId': u'DEM--47851', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 309}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.32440000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 15
+
+marketportfolio: 0
+
+
+**********************************
+Round 80 : 4.80999999997 176956.78
+
+supply: 
+{u'orderId': u'SUP--47852', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 381}
+
+demand: 
+{u'orderId': u'DEM--47852', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 456}
+
+quantown:  99
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.32440000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 16
+
+marketportfolio: 0
+
+
+**********************************
+Round 81 : 0.949999999972 178459.11
+
+supply: 
+{u'orderId': u'SUP--47853', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 422}
+
+demand: 
+{u'orderId': u'DEM--47853', u'price': 0.38, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 300}
+
+quantown:  99
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.39000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 2}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.32440000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 99}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.39000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 2}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 17
+
+marketportfolio: 7
+
+
+**********************************
+Round 82 : 3.75999999997 178408.97
+
+supply: 
+{u'orderId': u'SUP--47854', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 397}
+
+demand: 
+{u'orderId': u'DEM--47854', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 470}
+
+quantown:  2
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.40000000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 9}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.3332, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 2}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.40000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 9}
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.33000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -2}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 9
+
+
+**********************************
+Round 83 : 0.819999999972 180105.57
+
+supply: 
+{u'orderId': u'SUP--47855', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 357}
+
+demand: 
+{u'orderId': u'DEM--47855', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 328}
+
+quantown:  9
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.41999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 1}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.39999999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 9}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.41999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 1}
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.40000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -9}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 1
+
+
+**********************************
+Round 84 : 3.99999999997 184663.28
+
+supply: 
+{u'orderId': u'SUP--47856', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 293}
+
+demand: 
+{u'orderId': u'DEM--47856', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 366}
+
+quantown:  1
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.41999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 9}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.39999999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 1}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.41999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 9}
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.40000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -1}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 25
+
+
+**********************************
+Round 85 : 0.619999999972 185426.1
+
+supply: 
+{u'orderId': u'SUP--47857', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 156}
+
+demand: 
+{u'orderId': u'DEM--47857', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 135}
+
+quantown:  9
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.39000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 9}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.39000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -9}
+
+not_bug_days: 0
+
+not_sell_days: 0
+
+marketportfolio: 0
+
+
+**********************************
+Round 86 : 4.12999999997 182812.5
+
+supply: 
+{u'orderId': u'SUP--47858', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 148}
+
+demand: 
+{u'orderId': u'DEM--47858', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 127}
+
+quantown:  9
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.38, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 9}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 0
+
+
+**********************************
+Round 87 : 0.169999999972 185902.92
+
+supply: 
+{u'orderId': u'SUP--47859', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 491}
+
+demand: 
+{u'orderId': u'DEM--47859', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 379}
+
+quantown:  9
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.36830000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 9}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 2
+
+marketportfolio: 0
+
+
+**********************************
+Round 88 : 3.44999999997 184300.45
+
+supply: 
+{u'orderId': u'SUP--47860', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 472}
+
+demand: 
+{u'orderId': u'DEM--47860', u'price': 0.40999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 511}
+
+quantown:  9
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.41999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 8}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.37539999999999996, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 9}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.41999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 8}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 3
+
+marketportfolio: 8
+
+
+**********************************
+Round 89 : 0.0899999999716 187182.19
+
+supply: 
+{u'orderId': u'SUP--47861', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 253}
+
+demand: 
+{u'orderId': u'DEM--47861', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 283}
+
+quantown:  8
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.45000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.39040000000000002, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 8}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.39000000000000001, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -8}
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 0
+
+
+**********************************
+Round 90 : 3.20999999997 187855.76
+
+supply: 
+{u'orderId': u'SUP--47862', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 391}
+
+demand: 
+{u'orderId': u'DEM--47862', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 355}
+
+quantown:  8
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.45880000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 6}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.42999999999999999, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 8}
+
+roundEnd{'winningBids'}: 
+{u'orderId': u'buybid3', u'price': 0.46000000000000002, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'BUY', u'quantity': 6}
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 6
+
+
+**********************************
+Round 91 : 0.449999999972 186197.38
+
+supply: 
+{u'orderId': u'SUP--47863', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 443}
+
+demand: 
+{u'orderId': u'DEM--47863', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 583}
+
+quantown:  6
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.45000000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.4168, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+{u'orderId': u'sellbid3', u'price': 0.41999999999999998, u'teamName': u'Nivarna', u'productId': u'Durian', u'side': u'SELL', u'quantity': -6}
+
+not_bug_days: 1
+
+not_sell_days: 0
+
+marketportfolio: 0
+
+
+**********************************
+Round 92 : 2.96999999997 188749.19
+
+supply: 
+{u'orderId': u'SUP--47864', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 326}
+
+demand: 
+{u'orderId': u'DEM--47864', u'price': 0.41999999999999998, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 468}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.40999999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 1
+
+marketportfolio: 0
+
+
+**********************************
+Round 93 : 0.419999999972 186247.67
+
+supply: 
+{u'orderId': u'SUP--47865', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 316}
+
+demand: 
+{u'orderId': u'DEM--47865', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 277}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.378, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 2
+
+marketportfolio: 0
+
+
+**********************************
+Round 94 : 2.55999999997 185517.47
+
+supply: 
+{u'orderId': u'SUP--47866', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 132}
+
+demand: 
+{u'orderId': u'DEM--47866', u'price': 0.39000000000000001, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 149}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.35659999999999997, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 3
+
+marketportfolio: 0
+
+
+**********************************
+Round 95 : 2.55999999997 186150.44
+
+supply: 
+{u'orderId': u'SUP--47867', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 185}
+
+demand: 
+{u'orderId': u'DEM--47867', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 156}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.35400000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 4
+
+marketportfolio: 0
+
+
+**********************************
+Round 96 : 2.55999999997 184178.7
+
+supply: 
+{u'orderId': u'SUP--47868', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 184}
+
+demand: 
+{u'orderId': u'DEM--47868', u'price': 0.40000000000000002, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 153}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.34200000000000003, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 5
+
+marketportfolio: 0
+
+
+**********************************
+Round 97 : 2.55999999997 182953.01
+
+supply: 
+{u'orderId': u'SUP--47869', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 291}
+
+demand: 
+{u'orderId': u'DEM--47869', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 323}
+
+quantown:  6
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.44, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 5}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.36840000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 1
+
+not_sell_days: 6
+
+marketportfolio: 0
+
+
+**********************************
+Round 98 : 0.0799999999716 189116.54
+
+supply: 
+{u'orderId': u'SUP--47870', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 291}
+
+demand: 
+{u'orderId': u'DEM--47870', u'price': 0.44, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 244}
+
+quantown:  6
+
+myOrder{'bids'}: 
+{'orderId': 'buybid3', 'price': 0.45880000000000004, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'BUY', 'quantity': 0}
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.37719999999999998, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 2
+
+not_sell_days: 7
+
+marketportfolio: 0
+
+
+**********************************
+Round 99 : 2.23999999997 186723.32
+
+supply: 
+{u'orderId': u'SUP--47871', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 223}
+
+demand: 
+{u'orderId': u'DEM--47871', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 209}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.36840000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 8
+
+marketportfolio: 0
+
+
+**********************************
+Round 100 : 0.399999999972 186092.86
+
+supply: 
+{u'orderId': u'SUP--47872', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'SELL', u'quantity': 197}
+
+demand: 
+{u'orderId': u'DEM--47872', u'price': 0.42999999999999999, u'teamName': u'', u'productId': u'Durian', u'side': u'BUY', u'quantity': 231}
+
+quantown:  6
+
+myOrder{'bids'}: 
+
+myOrder{'asks'}: 
+{'orderId': 'sellbid3', 'price': 0.36840000000000001, 'teamName': 'Nivarna', 'productId': u'Durian', 'side': 'SELL', 'quantity': 6}
+
+roundEnd{'winningBids'}: 
+
+roundEnd{'winningAsks'}: 
+
+not_bug_days: 0
+
+not_sell_days: 9
+
+marketportfolio: 0
+cash: 1.840000
+inv : 168117.340000
+tot : 168119.180000
